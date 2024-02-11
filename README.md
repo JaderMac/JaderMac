@@ -10,12 +10,16 @@ de API.
 ### Atualmente cursando:
 Formação Quality Assurance Experience da Digital Inovation One, com o objetivo de ter um contato com diversas ferramentas de teste de software em outras linguagens de programação.
 Formação IoT Specialist, para ter uma formação de base forte e conseguir aplicar fundamentos de inteligência artificial, machine learning e redes neurais em sistemas embarcados.
+Curso preparatório para Certified Tester Advanced Level Test Analyst (CTAL-TA).
 <div>
    <a target='_blank'>
       <img align="center" alt="sfpc" height="150" width="150" src="https://hermes.dio.me/tracks/46ac522b-ff3e-4f73-b473-cfe634c26dac.png">
    </a>
    <a target='_blank'>
       <img align="center" alt="sfpc" height="150" width="150" src="https://hermes.dio.me/tracks/b963115b-65fc-470b-b87b-e988251b8a21.png">
+   </a>
+      <a target='_blank'>
+      <img align="center" alt="ctal-ta" height="150" width="150" src="https://atsqa.org/assets/images/badges/CTAL-TA-badge.png">
    </a>
 </div>
 
@@ -32,9 +36,6 @@ Formação IoT Specialist, para ter uma formação de base forte e conseguir apl
    </a>
    <a target='_blank'>
       <img align="center" alt="ctfl-at" height="150" width="150" src="https://atsqa.org/assets/images/badges/CTFL-AT-badge.png">
-   </a>
-   <a target='_blank'>
-      <img align="center" alt="ctal-ta" height="150" width="150" src="https://atsqa.org/assets/images/badges/CTAL-TA-badge.png">
    </a> 
 </div>
 
@@ -80,6 +81,10 @@ Formação IoT Specialist, para ter uma formação de base forte e conseguir apl
    </a>           
 </div>
 
+[![card](https://github-readme-stats.vercel.app/api?username=JaderMac&theme=tokyonight)](https://github.com/JaderMac/)
+
+[![JaderMac](https://github-readme-stats.vercel.app/api/top-langs/?username=JaderMac&hide=html&layout=compact&theme=tokyonight)](https://github.com/JaderMac/)
+
 ### Meus contatos:
 <div> 
    <a target='_blank' href="mailto:jdermachado@gmail.com">
@@ -96,6 +101,6 @@ Formação IoT Specialist, para ter uma formação de base forte e conseguir apl
    </a>
 </div>
 
-[![card](https://github-readme-stats.vercel.app/api?username=JaderMac&theme=tokyonight)](https://github.com/JaderMac/)
 
-[![JaderMac](https://github-readme-stats.vercel.app/api/top-langs/?username=JaderMac&hide=html&layout=compact&theme=tokyonight)](https://github.com/JaderMac/)
+
+
