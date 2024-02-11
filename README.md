@@ -1,6 +1,6 @@
 ### Oi, eu sou o Jader!
-Engenheiro Eletricista - Eletrônico.
-Especialista em Engenharia da Qualidade de Software
+## Engenheiro Eletricista - Eletrônico.
+## Especialista em Engenharia da Qualidade de Software.
 
 Here are some ideas to get you started:
 
