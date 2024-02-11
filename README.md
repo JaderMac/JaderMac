@@ -1,9 +1,14 @@
 # Jader Machado
 ### Engenheiro Eletricista - Eletrônico.
-Entusiasta de Sistemas Embarcados, Internet das Coisas e sistenas eletro-eletrônicos em geral.
+Entusiasta de Sistemas Embarcados, Internet das Coisas e sistemas eletro-eletrônicos em geral.
 ### Especialista em Engenharia da Qualidade de Software.
 Analista de Testes Funcionais na Keeggo.
-Atualmente atuando com testes com Alta Plataforma na Caixa Economica Federal.
+Seis anos de experiencia em processos de qualidade e teste de software, tendo atuado para clientes como Porto Seguro, Banco Carrefour e Atacadão, 
+Banco Original, Safra, Bradesco, Santander, BTG Pactual, Grupo Recovery, CNP Holding e atualmente na Caixa Economica Federal.
+Tendo atuado diretamente com testes de sistemas internos de operação, internet banking pessoa fisica e pessoa juridica, aplicações mobile e testes
+de API.
+### Tecnologias:
+
 ### Meus contatos:
 <div> 
    <a target='_blank' href="mailto:jdermachado@gmail.com">
