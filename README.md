@@ -5,7 +5,7 @@ Entusiasta de Sistemas Embarcados, Internet das Coisas e sistenas eletro-eletrô
 Analista de Testes Funcionais na Keeggo.
 Atualmente atuando com testes com Alta Plataforma na Caixa Economica Federal.
 
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 gmail
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
