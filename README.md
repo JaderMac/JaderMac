@@ -95,5 +95,7 @@ Formação IoT Specialist, para ter uma formação de base forte e conseguir apl
       <img align="center" alt="Medium" height="30" width="55" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
    </a>
 </div>
+
 [![card](https://github-readme-stats.vercel.app/api?username=JaderMac&theme=tokyonight)](https://github.com/JaderMac/)
+
 [![JaderMac](https://github-readme-stats.vercel.app/api/top-langs/?username=JaderMac&hide=html&layout=compact&theme=tokyonight)](https://github.com/JaderMac/)
