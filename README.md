@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**JaderMac/JaderMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oi, eu sou o Jader!
+Engenheiro Eletricista - Eletrônico.
+Especialista em Engenharia da Qualidade de Software
 
 Here are some ideas to get you started:
 
