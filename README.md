@@ -58,7 +58,12 @@ Curso preparatório para Certified Tester Advanced Level Test Analyst (CTAL-TA).
    </a> 
    <a target='_blank'>
       <img align="center" alt="sql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  />
-   </a>       
+   </a>
+   <!---
+   <a target='_blank'>
+      <img align="center" alt="ctfl-at" height="150" width="150" src="https://atsqa.org/assets/images/badges/CTFL-AT-badge.png">
+   </a>
+   -->
 </div>
 
 ### Frameworks de Automação:
@@ -74,11 +79,12 @@ Curso preparatório para Certified Tester Advanced Level Test Analyst (CTAL-TA).
     </a>
      <a target='_blank'>
       <img align="center" alt="Selenium" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
-   </a>   
-       </a>
-     <a target='_blank'>
-      <img align="center" alt="appium" height="100" width="100" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*XP-oUbM-zMZ-t5cwBbGhLg.png">
-   </a>           
+   </a>
+<!---
+      <a target='_blank'>
+          <img align="center" alt="appium" height="100" width="100" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*XP-oUbM-zMZ-t5cwBbGhLg.png">
+      </a> 
+-->
 </div>
 
 ###
